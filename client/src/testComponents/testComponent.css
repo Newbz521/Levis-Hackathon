@@ -44,7 +44,7 @@ button{
   justify-content: center;
   overflow: hidden;
   z-index: 0;
-  width: calc(55vh);
+  width: calc(25vh);
   height: calc(60vh);
 }
 .model{

@@ -2,7 +2,7 @@ import React from "react";
 import "./testComponent.css";
 import { useState, useEffect } from "react";
 import SelectSearch from "react-select-search";
-import Person from "./human.png";
+import Person from "./human2.png";
 import Jeans from "./jeans.png";
 import axios from "axios";
 
